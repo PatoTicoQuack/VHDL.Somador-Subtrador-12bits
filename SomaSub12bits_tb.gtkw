@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Feb 16 15:30:44 2023
+[*]
+[dumpfile] "/home/matheus/Área de Trabalho/SD/[SD P04] Matheus R Pesarini[O1P2] Matheus Gaspar[O1P2]/SomaSub12bits_tb.ghw"
+[dumpfile_mtime] "Thu Feb 16 15:28:06 2023"
+[dumpfile_size] 3425
+[savefile] "/home/matheus/Área de Trabalho/SD/[SD P04] Matheus R Pesarini[O1P2] Matheus Gaspar[O1P2]/SomaSub12bits_tb.gtkw"
+[timestart] 0
+[size] 1920 1012
+[pos] -1 -1
+*-27.498100 41700000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.somasub12bits_tb.
+[treeopen] top.somasub12bits_tb.mux0.
+[sst_width] 212
+[signals_width] 243
+[sst_expanded] 1
+[sst_vpaned_height] 292
+@28
+top.somasub12bits_tb.ovflow.overfloow
+@29
+top.somasub12bits_tb.overflowreal
+@200
+-Subtração:
+@28
+#{top.somasub12bits_tb.lx[11:0]} top.somasub12bits_tb.lx[11] top.somasub12bits_tb.lx[10] top.somasub12bits_tb.lx[9] top.somasub12bits_tb.lx[8] top.somasub12bits_tb.lx[7] top.somasub12bits_tb.lx[6] top.somasub12bits_tb.lx[5] top.somasub12bits_tb.lx[4] top.somasub12bits_tb.lx[3] top.somasub12bits_tb.lx[2] top.somasub12bits_tb.lx[1] top.somasub12bits_tb.lx[0]
+#{top.somasub12bits_tb.lsc2[11:0]} top.somasub12bits_tb.lsc2[11] top.somasub12bits_tb.lsc2[10] top.somasub12bits_tb.lsc2[9] top.somasub12bits_tb.lsc2[8] top.somasub12bits_tb.lsc2[7] top.somasub12bits_tb.lsc2[6] top.somasub12bits_tb.lsc2[5] top.somasub12bits_tb.lsc2[4] top.somasub12bits_tb.lsc2[3] top.somasub12bits_tb.lsc2[2] top.somasub12bits_tb.lsc2[1] top.somasub12bits_tb.lsc2[0]
+#{top.somasub12bits_tb.lssubtr[11:0]} top.somasub12bits_tb.lssubtr[11] top.somasub12bits_tb.lssubtr[10] top.somasub12bits_tb.lssubtr[9] top.somasub12bits_tb.lssubtr[8] top.somasub12bits_tb.lssubtr[7] top.somasub12bits_tb.lssubtr[6] top.somasub12bits_tb.lssubtr[5] top.somasub12bits_tb.lssubtr[4] top.somasub12bits_tb.lssubtr[3] top.somasub12bits_tb.lssubtr[2] top.somasub12bits_tb.lssubtr[1] top.somasub12bits_tb.lssubtr[0]
+@200
+-Soma:
+@28
+#{top.somasub12bits_tb.lx[11:0]} top.somasub12bits_tb.lx[11] top.somasub12bits_tb.lx[10] top.somasub12bits_tb.lx[9] top.somasub12bits_tb.lx[8] top.somasub12bits_tb.lx[7] top.somasub12bits_tb.lx[6] top.somasub12bits_tb.lx[5] top.somasub12bits_tb.lx[4] top.somasub12bits_tb.lx[3] top.somasub12bits_tb.lx[2] top.somasub12bits_tb.lx[1] top.somasub12bits_tb.lx[0]
+#{top.somasub12bits_tb.ly[11:0]} top.somasub12bits_tb.ly[11] top.somasub12bits_tb.ly[10] top.somasub12bits_tb.ly[9] top.somasub12bits_tb.ly[8] top.somasub12bits_tb.ly[7] top.somasub12bits_tb.ly[6] top.somasub12bits_tb.ly[5] top.somasub12bits_tb.ly[4] top.somasub12bits_tb.ly[3] top.somasub12bits_tb.ly[2] top.somasub12bits_tb.ly[1] top.somasub12bits_tb.ly[0]
+#{top.somasub12bits_tb.ls[11:0]} top.somasub12bits_tb.ls[11] top.somasub12bits_tb.ls[10] top.somasub12bits_tb.ls[9] top.somasub12bits_tb.ls[8] top.somasub12bits_tb.ls[7] top.somasub12bits_tb.ls[6] top.somasub12bits_tb.ls[5] top.somasub12bits_tb.ls[4] top.somasub12bits_tb.ls[3] top.somasub12bits_tb.ls[2] top.somasub12bits_tb.ls[1] top.somasub12bits_tb.ls[0]
+@200
+-Seletor:
+@28
+top.somasub12bits_tb.mux0.sel
+@200
+-Soma ou Subtr:
+@28
+#{top.somasub12bits_tb.muxsaida[11:0]} top.somasub12bits_tb.muxsaida[11] top.somasub12bits_tb.muxsaida[10] top.somasub12bits_tb.muxsaida[9] top.somasub12bits_tb.muxsaida[8] top.somasub12bits_tb.muxsaida[7] top.somasub12bits_tb.muxsaida[6] top.somasub12bits_tb.muxsaida[5] top.somasub12bits_tb.muxsaida[4] top.somasub12bits_tb.muxsaida[3] top.somasub12bits_tb.muxsaida[2] top.somasub12bits_tb.muxsaida[1] top.somasub12bits_tb.muxsaida[0]
+[pattern_trace] 1
+[pattern_trace] 0
